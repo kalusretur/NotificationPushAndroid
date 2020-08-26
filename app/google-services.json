@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746732695327",
+    "firebase_url": "https://hubnotification-e54d2.firebaseio.com",
+    "project_id": "hubnotification-e54d2",
+    "storage_bucket": "hubnotification-e54d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746732695327:android:17f9d2ec4d8787256b0a2a",
+        "android_client_info": {
+          "package_name": "pe.com.realplaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746732695327-3rcmej3l12j1ne9tqnlh2daah8e6rsej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw9pPaXQ2iUALjrvxIvEuS6sr_TNNymrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746732695327-3rcmej3l12j1ne9tqnlh2daah8e6rsej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
